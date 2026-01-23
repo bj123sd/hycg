@@ -1,9 +1,12 @@
 name: FOFA IP
 
 on:
+  # 保留手动触发
+  workflow_dispatch:
+  # 每20分钟自动运行
   schedule:
-    - cron: "*/20 * * * *"  # 修正 cron 表达式格式
-  workflow_dispatch:        # 保留手动触发
+    - cron: '*/20 * * * *'
+
 
 permissions:
   contents: write
