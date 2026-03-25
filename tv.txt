@@ -99,7 +99,7 @@ CCTV17,http://223.111.150.99:2005/zhibo/ysws.php?id=CCTV17
 星空卫视,http://122.224.58.42:85/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
 环球卫视,http://utv1.hqtvzb.com:9999/hls/world.m3u8
 香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-亚洲卫视,https://p2hs.vzan.com/slowlive/821481626725612419/live.m3u8
+亚太第一,http://play2.one-tv.com/live/onetv.m3u8
 辽宁,http://123.160.30.13:6610/PLTV1/1120/index.m3u8?
 江苏,http://123.160.30.14:6610/PLTV1/1000/index.m3u8?
 河南,http://123.160.30.21:6610/PLTV1/580/index.m3u8?
