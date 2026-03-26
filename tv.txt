@@ -3248,3 +3248,104 @@ NewKID4,https://stream.ads.ottera.tv/playlist.m3u8?network_id=888
 NewKID4,https://stream.ads.ottera.tv/playlist.m3u8?network_id=872
 韩国音乐,http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
 RNA,http://5ddfc48289114.streamlock.net/CHsoom/LIVE/playist.m3u8
+https://hd.ijycnd.com/play/RdGmyv7a/index.m3u8
+🌘电影,#genre#
+动作片-打黑,https://hd.ijycnd.com/play/Xe062L5b/index.m3u8
+动作片-尼斯警花,https://hd.ijycnd.com/play/YaOrZ4Le/index.m3u8
+动作片-钻石女王,https://hd.ijycnd.com/play/9aA51nPa/index.m3u8
+动作片-枪手,https://hd.ijycnd.com/play/1aMpZ23e/index.m3u8
+动作片-弯刀,https://hd.ijycnd.com/play/QeZJ8XRe/index.m3u8
+动作片-同盟,https://hd.ijycnd.com/play/YerwRZpa/index.m3u8
+动作片-重见天日,https://hd.ijycnd.com/play/lejlRDyb/index.m3u8
+动作片-龙卷风 1996,https://hd.ijycnd.com/play/QbY7xO9e/index.m3u8
+动作片-龙卷风 2024,https://hd.ijycnd.com/play/mep3Gm1d/index.m3u8
+动作片-复仇长官,https://hd.ijycnd.com/play/pen3BQPa/index.m3u8
+动作片-热血天使,https://hd.ijycnd.com/play/Pdy3ZOga/index.m3u8
+动作片-跨界任务,https://hd.ijycnd.com/play/Yer3jjWa/index.m3u8
+动作片-快人一步,https://hd.ijycnd.com/play/mep347Xd/index.m3u8
+动作片-大官 小官,https://hd.ijycnd.com/play/BeXWQrvd/index.m3u8
+动作片-亡命赌注,https://hd.ijycnd.com/play/YaOwNgBa/index.m3u8
+动作片-热血杀手,https://hd.ijycnd.com/play/lej3oG5a/index.m3u8
+动作片-纨绔子弟 电影版2,https://hd.ijycnd.com/play/lej3pGYa/index.m3u8
+动作片-澳门往事之猛虎过江,https://hd.ijycnd.com/play/Xe0x6XNe/index.m3u8
+动作片-沙漠袭击,https://hd.ijycnd.com/play/5eVEEZMd/index.m3u8
+动作片-醉后一拳,https://hd.ijycnd.com/play/pen3164a/index.m3u8
+动作片-殊死一搏,https://hd.ijycnd.com/play/Pdy3BkVa/index.m3u8
+动作片-哪吒·魔童归来,https://hd.ijycnd.com/play/pen3Apla/index.m3u8
+动作片-龙拳小子2,https://hd.ijycnd.com/play/Yer3WV2a/index.m3u8
+动作片-逃脱,https://hd.ijycnd.com/play/YaOw0WYa/index.m3u8
+动作片-赊刀人,https://hd.ijycnd.com/play/QeZLn98b/index.m3u8
+动作片-谈判专家,https://hd.ijycnd.com/play/YaOwDMra/index.m3u8
+动作片-死亡狩猎,https://hd.ijycnd.com/play/lej3Pxya/index.m3u8
+动作片-东哥闯东北,https://hd.ijycnd.com/play/nel3PqVd/index.m3u8
+动作片-卑劣的街头,https://hd.ijycnd.com/play/YaOw26Ya/index.m3u8
+动作片-寻龙迷棺,https://hd.ijycnd.com/play/QeZLD36b/index.m3u8
+动作片-绝地战警：生死与共,https://hd.ijycnd.com/play/DbDg7L6a/index.m3u8
+动作片-柔板,https://hd.ijycnd.com/play/1aMrXGQb/index.m3u8
+动作片-我的间谍2：永恒之城,https://hd.ijycnd.com/play/1aMrNyPb/index.m3u8
+动作片-驾驶,https://hd.ijycnd.com/play/lej3O5la/index.m3u8
+动作片-黄河水怪,https://hd.ijycnd.com/play/Rb4BkR1e/index.m3u8
+动作片-假面骑士555 20周年 天堂・重获,https://hd.ijycnd.com/play/Ddw3rAJd/index.m3u8
+动作片-刺杀敢死队,https://hd.ijycnd.com/play/DbDg82Ba/index.m3u8
+动作片-星光继承者：公主反叛联盟,https://hd.ijycnd.com/play/rb20WDNe/index.m3u8
+动作片-绝地战警,https://hd.ijycnd.com/play/QeZL4k6b/index.m3u8
+动作片-哥斯拉大战金刚2：帝国崛起,https://hd.ijycnd.com/play/BeXWjpmd/index.m3u8
+动作片-比佛利山超级警探4,https://hd.ijycnd.com/play/Yer1J4wd/index.m3u8
+动作片-遍地狼烟,https://hd.ijycnd.com/play/yb8VpL2e/index.m3u8
+动作片-寿喜烧西部片,https://hd.ijycnd.com/play/pen1EG4d/index.m3u8
+动作片-呼吸,https://hd.ijycnd.com/play/nel1Bp6a/index.m3u8
+动作片-黄海,https://hd.ijycnd.com/play/QeZ1JrEd/index.m3u8
+动作片-关中诡事之雾隐藏棺,https://hd.ijycnd.com/play/rb2MMBja/index.m3u8
+动作片-归零地,https://hd.ijycnd.com/play/Xe0KZkNd/index.m3u8
+动作片-荒野女囚,https://hd.ijycnd.com/play/Ddw1Lk8a/index.m3u8
+动作片-疯狂的麦克斯：狂暴女神,https://hd.ijycnd.com/play/mep15pVa/index.m3u8
+动作片-血战铜锣湾2,https://hd.ijycnd.com/play/QeZ1Qngd/index.m3u8
+动作片-黑暗森林,https://hd.ijycnd.com/play/mep1D7pa/index.m3u8
+动作片-狙击精英之纳米危机,https://hd.ijycnd.com/play/1aKDo5Mb/index.m3u8
+动作片-九龙城寨,https://hd.ijycnd.com/play/QbYNOpdz/index.m3u8
+动作片-九龙城寨之围城 普通话版,https://hd.ijycnd.com/play/YaOKpxYa/index.m3u8
+动作片-九龙城寨之围城 粤语版,https://hd.ijycnd.com/play/lej1W4Pd/index.m3u8
+动作片-触发警报,https://hd.ijycnd.com/play/qaQMrRZa/index.m3u8
+动作片-锦衣卫 梁家仁版,https://hd.ijycnd.com/play/PdRoNYeG/index.m3u8
+动作片-李诺的梦想,https://hd.ijycnd.com/play/9b6QNzNa/index.m3u8
+动作片-三叉戟,https://hd.ijycnd.com/play/mep1mXya/index.m3u8
+动作片-大侦探福尔摩斯2：诡影游戏,https://hd.ijycnd.com/play/PdROOLeG/index.m3u8
+动作片-荣耀法则,https://hd.ijycnd.com/play/Le3QkAAb/index.m3u8
+动作片-寒鸦,https://hd.ijycnd.com/play/YaOKGxra/index.m3u8
+动作片-冰封侠：时空行者 普通话版,https://hd.ijycnd.com/play/yb8Zn23e/index.m3u8
+动作片-战心时刻,https://hd.ijycnd.com/play/Rb4O2Wna/index.m3u8
+动作片-速度与激情10,https://hd.ijycnd.com/play/negDP46a/index.m3u8
+动作片-职业杀手,https://hd.ijycnd.com/play/lej1YLld/index.m3u8
+动作片-丛林追击,https://hd.ijycnd.com/play/QeZ1YQwd/index.m3u8
+动作片-制暴 2024,https://hd.ijycnd.com/play/Yer1RAkd/index.m3u8
+动作片-福星威龙,https://hd.ijycnd.com/play/6dBLVka7/index.m3u8
+动作片-美人鱼战队,https://hd.ijycnd.com/play/xe7Llra7/index.m3u8
+动作片-沉默者(普通话版),https://hd.ijycnd.com/play/Le3J29d6/index.m3u8
+动作片-叉手,https://hd.ijycnd.com/play/negMzYbw/index.m3u8
+动作片-杀手寓言,https://hd.ijycnd.com/play/zbqLO3ap/index.m3u8
+动作片-小人物,https://hd.ijycnd.com/play/xe7JZBd7/index.m3u8
+动作片-航班蛇患（国语版）,https://hd.ijycnd.com/play/RdGmyv7a/index.m3u8
+动作片-精武少年,https://hd.ijycnd.com/play/qaQz3Glb/index.m3u8
+动作片-谜误,https://hd.ijycnd.com/play/DdwLP6ge/index.m3u8
+动作片-玩命快递3,https://hd.ijycnd.com/play/MvbmQ0bY/index.m3u8
+动作片-卢纳将军,https://hd.ijycnd.com/play/YerDP36b/index.m3u8
+动作片-动作巨星2,https://hd.ijycnd.com/play/nelwJ45d/index.m3u8
+动作片-动作巨星,https://hd.ijycnd.com/play/YerDPxKb/index.m3u8
+动作片-仿生超极限,https://hd.ijycnd.com/play/QeZMAXQd/index.m3u8
+动作片-绝地狙击,https://hd.ijycnd.com/play/PdyNq9we/index.m3u8
+动作片-绝杀招式,https://hd.ijycnd.com/play/QeZM262d/index.m3u8
+动作片-刺客,https://hd.ijycnd.com/play/Xe0ZGOGb/index.m3u8
+动作片-所罗门王凯恩,https://hd.ijycnd.com/play/9b61ZkOa/index.m3u8
+动作片-风速极战,https://hd.ijycnd.com/play/yb8Z4X2e/index.m3u8
+动作片-异星战境,https://hd.ijycnd.com/play/yb8ZJLje/index.m3u8
+动作片-冰封：重生之门,https://hd.ijycnd.com/play/QdJAm2bO/index.m3u8
+动作片-暗影守卫,https://hd.ijycnd.com/play/BeXKKyod/index.m3u8
+动作片-犯罪都市3,https://hd.ijycnd.com/play/PdyNNYze/index.m3u8
+动作片-犯罪都市2,https://hd.ijycnd.com/play/mepAAMXa/index.m3u8
+动作片-犯罪都市,https://hd.ijycnd.com/play/lejrrDYe/index.m3u8
+动作片-灭世男孩,https://hd.ijycnd.com/play/nelww61d/index.m3u8
+动作片-套现,https://hd.ijycnd.com/play/QeZMMw2d/index.m3u8
+动作片-借命人,https://hd.ijycnd.com/play/QeZMQ4Ed/index.m3u8
+动作片-冰封侠：时空行者 粤语版,https://hd.ijycnd.com/play/rb2ZP4zb/index.m3u8
+动作片-异域狼孩,https://hd.ijycnd.com/play/9av0pZ5d/index.m3u8
+动作片-终极追捕,https://hd.ijycnd.com/play/PdRAD80b/index.m3u8
