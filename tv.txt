@@ -72,7 +72,7 @@ CHC家庭影院,http://38.75.136.137:98/gslb/dsdqpub/chcjt.m3u8?auth=testpub
 发现之旅,http://38.75.136.137:98/gslb/dsdqpub/fxzl.m3u8?auth=testpub
 国学频道,http://38.75.136.137:98/gslb/dsdqpub/gxpd.m3u8?auth=testpub
 天元围棋,http://38.75.136.137:98/gslb/dsdqpub/gztywq.m3u8?auth=testpub
-优漫卡通,http://38.75.136.137:98/gslb/dsdqpub/ymkt.m3u8?auth=testpub
+优漫卡通,http://38.75.136.137:98/gslb/d:sdqpub/ymkt.m3u8?auth=testpub
 北京纪实科教,http://38.75.136.137:98/gslb/dsdqpub/btv3.m3u8?auth=testpub
 北京卡酷少儿,http://38.75.136.137:98/gslb/dsdqpub/btvkk.m3u8?auth=testpub
 CGTN英语,http://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
@@ -291,7 +291,7 @@ CN,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU
 Nickelodeon,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUQcKJgqGv1BzPFE67m_1RcSWgG3ybLL0QVNU-IfNrRO4al7ctTiMPqpX_kJoGOqnDTjLfk-84hu55vctn6onM1FQ0l9knN2wVtwDqkqEUUJEjAZoTF8ehsMLG_OIVfzJrKe6h4U7p0QL9BysI_rybHacL32l3sFU2awCmae_CU6Jukc8R6xugvLGKxzYHRF0-h7xwe7T0i_LdvTiLX7bufw.m3u8?u=1756878715
 Cbeebies,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iU-PTrevW4Nb5kml8ZMd3at0xwG6LdTbmYoiGECXwrn8KtpBuHeb_RmgtCL7O2F9Nqzp6OvXRA50Ry61BpBELZx5xYioK2lw7y5kx7rRmXUAM6LVYVv05s28EGxrNfYTyWUrkR_vZSdGk-PaXXV3gREK6VKS27HynMraIH3sspojONirFa7BMHbAQPHaIX2ZAVPluYhgYVuvlwMNNc59pfNg.m3u8?u=1756878715
 HB家庭HD,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUvKU-Aw4PFwAvIn8K7Du4mJPp0JaaWt0UHnPdZ2oXPXt8AD-2wmgj1uSMZmlbnVxV9-jLgZGzM1jBGKeAZ87oRrO9E_Xvob7XVEm6y4Qr2jgdjYQH_9d-EKyI8DgsgaJyX-YdylzYa8MNkrKE-WqwQb_JXp1kHNpOLlV9s3QODVFXsySRRKetl-cazstKWOUZLtnLtVW4LGZCpPx_VNyww7L5fjvFJBQDmDsgfJsx2aY.m3u8?u=1756878715
-数,#gener#
+数,#genre#
 重温经典影视,http://wonder998.x3322.net:6200/udp/239.253.254.81:8000
 重温经典,http://8.138.7.223/tv/cwjd.php
 NewTV军旅剧场,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c54_fast_700_1080P_t10/c54_fast_700_1080P_t10.m3u8?d
