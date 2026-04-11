@@ -584,6 +584,7 @@ CETV1,http://rihou.cc:555/tv/CETV1
 CETV3,http://rihou.cc:555/tv/CETV3
 CETV4,http://rihou.cc:555/tv/CETV4
 全球时尚,https://player.juyun.tv/camera/137932133.m3u8
+翡翠台,http://o11.163189.xyz/stream/tvb/fct/
 湖南,http://123.118.56.249:8686/rtp/239.3.1.132:8012$北京联通11
 湖南,http://39.77.25.187:4002/rtp/239.253.254.82:8000$山东联通11
 湖南,http://60.4.30.55:8077/rtp/239.253.92.84:8015$河北联通11
