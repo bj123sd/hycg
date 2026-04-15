@@ -10324,6 +10324,7 @@ x伊通综合频道,webview://http://stream6.jlntv.cn:80/yt/playlist.m3u8
 成都少儿频道,webview://https://www.cditv.cn/show/4845-558.html
 成都少儿频道,webview://https://wap.cditv.cn/tvDetail?app_id=1&t=rmt_live&v=4801;;552
 成都蓉城先锋频道,webview://https://www.cditv.cn/show/4845-592.html
+成华有线电视,webview://https://www.cditv.cn/show/4844-586.html
 简阳综合频道,webview://https://www.cditv.cn/show/4844-578.html
 简阳综合频道,webview://http://jyrmt.jianyangrongmei.com/html/j0185/2024/01/26/1750785258949513218_share.html
 简阳综合频道,webview://http://rmt.jianyangrongmei.cn/html/j0185/2024/01/26/1750785258949513218_share.html
