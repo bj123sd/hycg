@@ -1,6 +1,4 @@
 #EXTM3U
 #group,#直播(广州电信)
-include=http://iptv.cqshushu.com/index.php?s=DgQ11VQjJz9YAdHIOZzWSw&t=multicast&channels=1&format=txt
+include=https://iptv.cqshushu.com/index.php?s=DgQ11VQjJz9YAdHIOZzWSw&t=multicast&channels=1&format=txt
 include=https://raw.githubusercontent.com/bj123sd/hycg/refs/heads/main/tv1.txt
-
-
