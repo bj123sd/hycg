@@ -7012,8 +7012,9 @@ x系列,#genre#
 江西潮台969,webview://https://h5-dalanjing.jstv.com/audiolive.html?id=1178738448753057792&t=1755149847811
 南昌综合频道,webview://https://play-live-hls.jxtvcn.com.cn/live-city/tv_nanchang.m3u8
 南昌综合频道,webview://https://www.nctv.net.cn/live?channel=1
-南昌文旅频道,webview://https://www.nctv.net.cn/live?channel=2
-南昌资讯频道,webview://https://www.nctv.net.cn/live?channel=3
+南昌都市,webview://https://www.nctv.net.cn/live?channel=2
+南昌资讯,webview://https://www.nctv.net.cn/live?channel=3
+南昌资讯,webview://https://www.nctv.net.cn/live
 南昌综合广播,webview://https://ytweb.radio.cn/share/radioPlay?broadcastId=969
 南昌交通广播,webview://https://ytweb.radio.cn/share/radioPlay?broadcastId=975
 南昌交通广播,webview://https://lhttp-hw.qtfm.cn/live/1804/64k.mp3
@@ -7207,11 +7208,6 @@ x系列,#genre#
 景德镇交通音乐广播,webview://https://lhttp-hw.qtfm.cn/live/5021829/64k.mp3
 景德镇交通音乐广播,webview://https://www.qtfm.cn/radios/5021829/
 景德镇广播,webview://https://jdzapp.jdz-news.com.cn/client/lightPage.html?tenant_id=300&id=245&gaze_control=1
-安义
-进贤
-南昌县
-湾里
-新建
 定南综合频道,webview://https://play-sh13.quklive.com/live/1762136155495343.m3u8?auth_key=2077496271-c46d3a24f8c647e9bce8ab5282c718b0-0-860d2c359f24e71c3d33cbb07fbbf120
 定南综合频道,webview://http://www.qukanvideo.com/cloud/h5/1762136155495343
 定南综合频道,webview://https://cloud.quklive.com/cloud/a/embed/1762136155495343
