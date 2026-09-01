@@ -1,4 +1,4 @@
-音乐#genre#
+音乐,#genre#
 音乐石榴,https://live.ottiptv.cc/huya/17091681
 秋月剪水,http://live.nctv.top/douyu1.php?id=9588891
 喵喵音乐台,http://live.nctv.top/douyu1.php?id=9568091
