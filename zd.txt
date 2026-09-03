@@ -1,4 +1,10 @@
 安徽,#genre#
+ss,webview://https://app.hfbtc.cn/shows/2/4.html
+合肥新闻,webview://https://app.hfbtc.cn/shows/2/1.html
+合肥生,webview://https://app.hfbtc.cn/shows/2/2.html
+合肥科创,webview://https://app.hfbtc.cn/shows/2/3.html
+黄山文旅,webview://http://www.hsnewsnet.com/web/tvlife/
+黄山新闻综合,http://www.hsnewsnet.com/web/tvnews/
 安徽卫视,webview://https://h5.ahtv.cn/folder9000/folder20193
 安徽卫视,webview://https://h5.ahtv.cn/folder9000/folder20193?channel_id=47
 安徽卫视,webview://https://h5.ahtv.cn/folder9000/folder20193?channellndex=0
